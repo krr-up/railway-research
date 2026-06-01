@@ -6,7 +6,7 @@
 Browse through the reports of groups that have completed the course in the past.
 
 ### Winter 2023-2024
-* [Paper]() • ⎋ [GitHub](https://github.com/tzschmidt/Railway-Scheduling)
+* [Approaches to Solving Flatland with ASP](railway-course/2023-wise/schleh2024a) • ⎋ [GitHub](https://github.com/tzschmidt/Railway-Scheduling)
 * [Grid-based to Graph-based Solutions in Flatland](railway-course/2023-wise/warger2024a.pdf) • ⎋ [GitHub](https://github.com/warfiaUni/RailwayScheduling)
 * [Paper]() • ⎋ [GitHub](github.com/fbiannis/flatland-asp-collab)
 

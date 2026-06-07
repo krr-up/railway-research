@@ -31,7 +31,7 @@ Browse through the reports of groups that have completed the course in the past.
 ### Winter 2025-2026
 * [Clingonia v2](railway-course/2025-wise/henvog2026a.pdf) • ⎋ [GitHub](https://github.com/M4X-VOGEL/Clingonia)
 * [Intermediate Stations](railway-course/2025-wise/zank2026a.pdf) • ⎋ [GitHub]()
-* [Incremental Solving and Pick Up and Delivery with Sequencing Constraints](railway-course/2025-wise/osslei2026a.pdf)
+* [Incremental Solving and Pick Up and Delivery with Sequencing Constraints](railway-course/2025-wise/osslei2026a.pdf) • ⎋ [GitHub](https://github.com/ansovald/lokomotive_golm)
 * [Railway-Scheduling in Flatland Modeling Accurate Speed In Curves](railway-course/2025-wise/adaboe2026a.pdf)
 
 

@@ -1,0 +1,23 @@
+{
+  "papers":
+  [
+    {
+      "title": "Optimal train scheduling on a single track railway",
+      "authors": "",
+      "year": 1973,
+      "abstract": "",
+      "url" : "",
+      "related fields": [],
+      "BibTeX" : ""
+    },
+    {
+      "title": "Modelling of rail networks: Toward a routing/makeup model",
+      "authors": "A. A. Assad",
+      "year": 1980,
+      "abstract": "",
+      "url" : "https://www.sciencedirect.com/science/article/abs/pii/0191261580900363",
+      "related fields": [],
+      "BibTeX" : ""
+    },
+  ]
+}

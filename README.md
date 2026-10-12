@@ -34,4 +34,8 @@ Browse through the reports of groups that have completed the course in the past.
 * [Incremental Solving and Pick Up and Delivery with Sequencing Constraints](railway-course/2025-wise/osslei2026a.pdf) • ⎋ [GitHub](https://github.com/ansovald/lokomotive_golm)
 * [Railway-Scheduling in Flatland Modeling Accurate Speed In Curves](railway-course/2025-wise/adaboe2026a.pdf)
 
-
+### Summer 2026
+* [Passenger Preference Optimization in Flatland with Answer Set Programming]() • ⎋ [GitHub](https://github.com/PriyaNavus/rs42)
+* [Energy Efficiency in Railway Scheduling]()  • ⎋ [GitHub]()
+* [Coupling and Uncoupling of Trains]()  • ⎋ [GitHub]()
+* [Track Malfunctions in Flatland]()  • ⎋ [GitHub](https://github.com/wug-on-praat/TRailMix)
